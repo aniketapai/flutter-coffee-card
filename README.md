@@ -6,7 +6,7 @@ An interactive Flutter app to visualize and customize how you like your coffee â
 
 ## ðŸ“± Preview
 
-![Coffee App Screenshot](assets/preview.png)
+![Coffee App Screenshot](assets/preview.jpg)
 
 ---
 
