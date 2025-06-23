@@ -6,7 +6,7 @@ An interactive Flutter app to visualize and customize how you like your coffee �
 
 ## 📱 Preview
 
-<img src="assets/preview.jpg" alt="Coffee App Preview" width="400"/>
+<img src="assets/preview.jpg" alt="Coffee App Preview" height="400"/>
 
 ---
 
@@ -23,6 +23,18 @@ An interactive Flutter app to visualize and customize how you like your coffee �
 
 ## 🗂️ Project Structure
 
-<pre> ```text lib/ ├── main.dart # App entry point ├── home.dart # Home screen layout ├── coffee_prefs.dart # Stateful widget for preferences └── styled_widget.dart # Reusable styled components assets/ ├── coffee_bg.jpg # Background image ├── coffee_bean.png # Coffee bean icon └── sugar_cube.png # Sugar cube icon ``` </pre>
+```text
+lib/
+├── main.dart           # App entry point
+├── home.dart           # Home screen layout
+├── coffee_prefs.dart   # Stateful widget for preferences
+└── styled_widget.dart  # Reusable styled components
+
+assets/
+├── coffee_bg.jpg       # Background image
+├── coffee_bean.png     # Coffee bean icon
+└── sugar_cube.png      # Sugar cube icon
+```
+
 
 ---
